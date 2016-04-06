@@ -1,4 +1,7 @@
 This is the repository for the github training workshop
+
+Look mom! I'm editing with github!
+
 # header 1
 ## header 2
 ### header 3
