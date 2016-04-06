@@ -13,3 +13,5 @@ People learn git, it's awesome
 # Discussion
 
 You should use git for anything important 
+
+This is the hardest part to write
