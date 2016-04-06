@@ -6,3 +6,7 @@ This is a workshop on Git
 
 This is version control 
 
+# Results
+
+People learn git, it's awesome
+
