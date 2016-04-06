@@ -24,4 +24,8 @@ Look now I'm editing on my computer!
 ```python
 print "Hello"
 
+<<<<<<< HEAD
 This is crazy!
+=======
+Editing on github again.. woo!
+>>>>>>> b3c35672979ec32b63153eff3fa5b1d31daeaf82
