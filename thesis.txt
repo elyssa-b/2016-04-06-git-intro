@@ -4,4 +4,5 @@
 
 This is a workshop on Git
 
+This is version control 
 
