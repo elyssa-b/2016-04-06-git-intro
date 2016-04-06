@@ -1,0 +1,7 @@
+# This is my thesis 
+
+# Introduction
+
+This is a workshop on Git
+
+
