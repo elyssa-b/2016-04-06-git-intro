@@ -23,3 +23,5 @@ Look now I'm editing on my computer!
 
 ```python
 print "Hello"
+
+This is crazy!
